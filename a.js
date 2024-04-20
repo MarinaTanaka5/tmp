@@ -26,7 +26,7 @@
 
 // const user = {
 //     name: "ishida",
-//     age: 11,
+//     age: 22,
 //     sex: "men"
 //     //aisatu: "ohayo"
 // }
